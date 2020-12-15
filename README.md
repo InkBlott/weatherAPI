@@ -1,1 +1,1 @@
-# Simple React project fetching city temperature data from weather API
+ Simple React project fetching city temperature data from weather API
